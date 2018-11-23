@@ -1,0 +1,15 @@
+C:\Users\facun\Desktop\TP\Rey.Facundo.2D.TP3\Archivos\bin\Debug\Archivos.dll
+C:\Users\facun\Desktop\TP\Rey.Facundo.2D.TP3\Archivos\bin\Debug\Archivos.pdb
+C:\Users\facun\Desktop\TP\Rey.Facundo.2D.TP3\Archivos\obj\Debug\Archivos.csprojAssemblyReference.cache
+C:\Users\facun\Desktop\TP\Rey.Facundo.2D.TP3\Archivos\obj\Debug\Archivos.csproj.CoreCompileInputs.cache
+C:\Users\facun\Desktop\TP\Rey.Facundo.2D.TP3\Archivos\obj\Debug\Archivos.dll
+C:\Users\facun\Desktop\TP\Rey.Facundo.2D.TP3\Archivos\obj\Debug\Archivos.pdb
+C:\Users\facun_000\Desktop\Rey.Facundo.2D.TP3\Archivos\bin\Debug\Archivos.dll
+C:\Users\facun_000\Desktop\Rey.Facundo.2D.TP3\Archivos\bin\Debug\Archivos.pdb
+C:\Users\facun_000\Desktop\Rey.Facundo.2D.TP3\Archivos\obj\Debug\Archivos.csprojAssemblyReference.cache
+C:\Users\facun_000\Desktop\Rey.Facundo.2D.TP3\Archivos\obj\Debug\Archivos.csproj.CoreCompileInputs.cache
+C:\Users\facun_000\Desktop\Rey.Facundo.2D.TP3\Archivos\obj\Debug\Archivos.dll
+C:\Users\facun_000\Desktop\Rey.Facundo.2D.TP3\Archivos\obj\Debug\Archivos.pdb
+C:\Users\facun_000\Desktop\Rey.Facundo.2D.TP3\Archivos\bin\Debug\Excepciones.dll
+C:\Users\facun_000\Desktop\Rey.Facundo.2D.TP3\Archivos\bin\Debug\Excepciones.pdb
+C:\Users\facun_000\Desktop\Rey.Facundo.2D.TP3\Archivos\obj\Debug\Archivos.csproj.CopyComplete

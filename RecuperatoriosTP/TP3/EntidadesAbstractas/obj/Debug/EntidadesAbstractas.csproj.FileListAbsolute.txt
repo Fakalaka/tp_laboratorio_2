@@ -1,0 +1,11 @@
+C:\Users\facun\Desktop\TP\Rey.Facundo.2D.TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.csprojAssemblyReference.cache
+C:\Users\facun\Desktop\TP\Rey.Facundo.2D.TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.csproj.CoreCompileInputs.cache
+C:\Users\facun_000\Desktop\Rey.Facundo.2D.TP3\EntidadesAbstractas\bin\Debug\EntidadesAbstractas.dll
+C:\Users\facun_000\Desktop\Rey.Facundo.2D.TP3\EntidadesAbstractas\bin\Debug\EntidadesAbstractas.pdb
+C:\Users\facun_000\Desktop\Rey.Facundo.2D.TP3\EntidadesAbstractas\bin\Debug\Excepciones.dll
+C:\Users\facun_000\Desktop\Rey.Facundo.2D.TP3\EntidadesAbstractas\bin\Debug\Excepciones.pdb
+C:\Users\facun_000\Desktop\Rey.Facundo.2D.TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.csprojAssemblyReference.cache
+C:\Users\facun_000\Desktop\Rey.Facundo.2D.TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.csproj.CoreCompileInputs.cache
+C:\Users\facun_000\Desktop\Rey.Facundo.2D.TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.csproj.CopyComplete
+C:\Users\facun_000\Desktop\Rey.Facundo.2D.TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.dll
+C:\Users\facun_000\Desktop\Rey.Facundo.2D.TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.pdb

@@ -1,0 +1,18 @@
+C:\Users\facun\Desktop\TP\Rey.Facundo.2D.TP3\Main\obj\Debug\Main.csprojAssemblyReference.cache
+C:\Users\facun\Desktop\TP\Rey.Facundo.2D.TP3\Main\obj\Debug\Main.csproj.CoreCompileInputs.cache
+C:\Users\facun_000\Desktop\Rey.Facundo.2D.TP3\Main\obj\Debug\Main.csprojAssemblyReference.cache
+C:\Users\facun_000\Desktop\Rey.Facundo.2D.TP3\Main\obj\Debug\Main.csproj.CoreCompileInputs.cache
+C:\Users\facun_000\Desktop\Rey.Facundo.2D.TP3\Main\bin\Debug\Main.exe.config
+C:\Users\facun_000\Desktop\Rey.Facundo.2D.TP3\Main\bin\Debug\Main.exe
+C:\Users\facun_000\Desktop\Rey.Facundo.2D.TP3\Main\bin\Debug\Main.pdb
+C:\Users\facun_000\Desktop\Rey.Facundo.2D.TP3\Main\bin\Debug\Archivos.dll
+C:\Users\facun_000\Desktop\Rey.Facundo.2D.TP3\Main\bin\Debug\Clases Instanciables.dll
+C:\Users\facun_000\Desktop\Rey.Facundo.2D.TP3\Main\bin\Debug\EntidadesAbstractas.dll
+C:\Users\facun_000\Desktop\Rey.Facundo.2D.TP3\Main\bin\Debug\Excepciones.dll
+C:\Users\facun_000\Desktop\Rey.Facundo.2D.TP3\Main\bin\Debug\Archivos.pdb
+C:\Users\facun_000\Desktop\Rey.Facundo.2D.TP3\Main\bin\Debug\Clases Instanciables.pdb
+C:\Users\facun_000\Desktop\Rey.Facundo.2D.TP3\Main\bin\Debug\EntidadesAbstractas.pdb
+C:\Users\facun_000\Desktop\Rey.Facundo.2D.TP3\Main\bin\Debug\Excepciones.pdb
+C:\Users\facun_000\Desktop\Rey.Facundo.2D.TP3\Main\obj\Debug\Main.csproj.CopyComplete
+C:\Users\facun_000\Desktop\Rey.Facundo.2D.TP3\Main\obj\Debug\Main.exe
+C:\Users\facun_000\Desktop\Rey.Facundo.2D.TP3\Main\obj\Debug\Main.pdb
